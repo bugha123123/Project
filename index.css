@@ -239,6 +239,7 @@ section .container3 {
   justify-content: center;
   gap: 21px;
   flex-wrap: wrap;
+  margin-top: 20px;
 }
 section .container3 .card {
   width: 308px;
